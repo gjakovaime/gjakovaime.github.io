@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>INOX</title>
-    <link>gjakovaime.github.io/</link>
+    <link>//inox-ks.com/</link>
     <description>Recent content on INOX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Sep 2017 02:04:19 -0400</lastBuildDate>
     
-	<atom:link href="gjakovaime.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//inox-ks.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nxemje</title>
-      <link>gjakovaime.github.io/nxemje/</link>
+      <link>//inox-ks.com/nxemje/</link>
       <pubDate>Sat, 02 Sep 2017 02:04:19 -0400</pubDate>
       
-      <guid>gjakovaime.github.io/nxemje/</guid>
+      <guid>//inox-ks.com/nxemje/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pllaka</title>
-      <link>gjakovaime.github.io/pllaka/</link>
+      <link>//inox-ks.com/pllaka/</link>
       <pubDate>Sat, 02 Sep 2017 02:04:06 -0400</pubDate>
       
-      <guid>gjakovaime.github.io/pllaka/</guid>
+      <guid>//inox-ks.com/pllaka/</guid>
       <description></description>
     </item>
     
