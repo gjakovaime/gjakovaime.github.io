@@ -1,0 +1,22 @@
+<nav class="pv3 ph3 ph4-ns" role="navigation" style="background: rgba(255,255,255, .4)">
+  <div class="flex-l justify-between items-center center">
+    <a href="{{ .Site.BaseURL }}" class="f3 fw2 no-underline dark-gray dib">
+      <img src="{{ .Site.Params.Logo }}" alt="{{ .Site.Title }}" class="db w-100"/>
+      
+    </a>
+    <div class="flex-l items-center">
+      {{ if .Site.Menus.main }}
+        <ul class="pl0 mr3">
+          {{ range .Site.Menus.main }}
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline dark-gray" href="{{ .URL }}" title="{{ .Name }} page">
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+      {{ partial "social-follow.html" . }}
+    </div>
+  </div>
+</nav>
