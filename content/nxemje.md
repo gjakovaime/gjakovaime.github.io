@@ -1,7 +1,6 @@
 ---
 title: "Nxemje"
-date: 2017-09-01T22:08:15-04:00
-draft: true
+date: 2017-09-02T02:04:19-04:00
 menu: 
     main: {}
 ---
