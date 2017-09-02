@@ -1,7 +1,8 @@
-baseURL = "gjakovaime.github.io/inox-ks/"
+baseURL = "gjakovaime.github.io"
 languageCode = "en-us"
 title = "INOX"
 theme = "ananke"
+publishDir = "docs"
 [params]
     background_color_class = "bg-lightest-blue"
     logo = "/images/inox-logo-small.png"
