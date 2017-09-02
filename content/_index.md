@@ -1,7 +1,6 @@
 ---
 title: "INOX"
 date: 2017-09-01T19:49:38-04:00
-draft: true
 featured_image: '/images/home-1.jpg'
 description: "Cilësia e produkteve tona pasqyrohet në banjot tuaja"
 ---
