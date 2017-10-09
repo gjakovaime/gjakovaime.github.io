@@ -4,5 +4,39 @@ title = "INOX"
 theme = "ananke"
 publishDir = "docs"
 [params]
-    background_color_class = "bg-dark-gray"
-    logo = "/images/inox-logo-small.png"
+    background_color_class = "bg-light-silver"
+    logo = "/images/inox-logo-white.png"
+    body_classes = "black"
+    article_color="black"
+    menu_color="black"
+    header-bg-class = "bg-black-30"
+[[menu.main]]
+    name = "Pllaka"    
+    weight = -100
+    url = "/banjo/pllaka"   
+    parent="Banjo"
+[[menu.main]]
+    name = "Rubineta"    
+    weight = -100
+    url = "/banjo/rubineta"   
+    parent="Banjo"
+[[menu.main]]
+    name = "Sanitari"    
+    weight = -100
+    url = "/banjo/sanitari"   
+    parent="Banjo"
+[[menu.main]]
+     name = "Kotlla"
+    weight = -100
+    url = "/nxemje/kotlla"   
+    parent="Nxemje Qëndrore"
+[[menu.main]]
+    name = "Mapress"
+    weight = -100
+    url = "/nxemje/mapress/"   
+    parent="Nxemje Qëndrore"
+[[menu.main]]
+    name = "Panel Diellor"
+    weight = -100
+    url = "/nxemje/panel-diellor/"   
+    parent="Nxemje Qëndrore"

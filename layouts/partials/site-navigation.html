@@ -1,22 +1,36 @@
-<nav class="pv3 ph3 ph4-ns" role="navigation" style="background: rgba(255,255,255, .4)">
-  <div class="flex-l justify-between items-center center">
-    <a href="{{ .Site.BaseURL }}" class="f3 fw2 no-underline dark-gray dib">
-      <img src="{{ .Site.Params.Logo }}" alt="{{ .Site.Title }}" class="db w-100"/>
-      
-    </a>
-    <div class="flex-l items-center">
-      {{ if .Site.Menus.main }}
-        <ul class="pl0 mr3">
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline dark-gray" href="{{ .URL }}" title="{{ .Name }} page">
-              {{ .Name }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      {{ end }}
-      {{ partial "social-follow.html" . }}
-    </div>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+<style>
+  .navbar-light .navbar-nav .nav-link {color: #fff;}
+  .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {color: #fff; text-decoration: underline;}
+  </style>
+<nav class="navbar navbar-toggleable-md navbar-light  {{ $.Param "article_color" |  default "white"}}">
+<a class="" href="/"><img src="{{ .Site.Params.Logo }}" alt="{{ .Site.Title }}"/> <span class="sr-only">(current)</span></a>
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">     
+    <ul class="nav navbar-nav ml-auto w-100 justify-content-end">
+     
+    {{ range .Site.Menus.main }}
+        {{ if .HasChildren }}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">        
+                {{ .Pre }}
+                <span>{{ .Name }}</span>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            {{ range.Children }}
+                <a class="dropdown-item" href="{{.URL}}"> {{ .Name }} </a>
+            {{ end }}
+        </div>
+      </li>
+        {{else}}
+        
+      <li class="nav-item">
+        <a class="nav-link" href="{{.URL}}">{{.Name}}</a>
+      </li>
+      {{end}}
+    {{end}}
+    </ul>
   </div>
 </nav>

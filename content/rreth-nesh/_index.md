@@ -1,7 +1,7 @@
 ---
 title: "Rreth Nesh"
 date: 2017-09-01T19:40:13-04:00
-featured_image: '/images/nxemje/1.jpg'
+featured_image: '/images/rreth-nesh.jpg'
 type: page
 menu:
     main: {}
