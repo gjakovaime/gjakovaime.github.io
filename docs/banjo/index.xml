@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Banjos on INOX</title>
+    <link>//inox-ks.com/banjo/</link>
+    <description>Recent content in Banjos on INOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Sep 2017 02:04:06 -0400</lastBuildDate>
+    
+	<atom:link href="//inox-ks.com/banjo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dollapa</title>
+      <link>//inox-ks.com/banjo/sanitari/</link>
+      <pubDate>Sat, 02 Sep 2017 02:04:06 -0400</pubDate>
+      
+      <guid>//inox-ks.com/banjo/sanitari/</guid>
+      <description> Ne ju sjellim showroom-in mbi 1000m2 në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë.
+Shikoni nga afër kualitetin dhe elengacen e produkteve tona.
+
+ </description>
+    </item>
+    
+    <item>
+      <title>Pllaka</title>
+      <link>//inox-ks.com/banjo/pllaka/</link>
+      <pubDate>Sat, 02 Sep 2017 02:04:06 -0400</pubDate>
+      
+      <guid>//inox-ks.com/banjo/pllaka/</guid>
+      <description> Ne ju sjellim showroom-in mbi 1000m2 në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. Shikoni nga afër kualitetin dhe elengacen e produkteve tona.   </description>
+    </item>
+    
+    <item>
+      <title>Rubineta</title>
+      <link>//inox-ks.com/banjo/rubineta/</link>
+      <pubDate>Sat, 02 Sep 2017 02:04:06 -0400</pubDate>
+      
+      <guid>//inox-ks.com/banjo/rubineta/</guid>
+      <description> Ne ju sjellim showroom-in mbi 1000m2 në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. Shikoni nga afër kualitetin dhe elengacen e produkteve tona.   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//inox-ks.com/nxemje/</loc>
+    <loc>//inox-ks.com/nxemje/mapress/</loc>
+    <lastmod>2018-09-02T02:04:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//inox-ks.com/kuzhina/pllaka/</loc>
+    <lastmod>2018-09-02T02:04:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//inox-ks.com/nxemje/kotlla/</loc>
     <lastmod>2017-09-02T02:04:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>//inox-ks.com/pllaka/</loc>
+    <loc>//inox-ks.com/banjo/sanitari/</loc>
     <lastmod>2017-09-02T02:04:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>//inox-ks.com/panel-diellor/</loc>
+    <loc>//inox-ks.com/banjo/pllaka/</loc>
+    <lastmod>2017-09-02T02:04:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//inox-ks.com/banjo/rubineta/</loc>
+    <lastmod>2017-09-02T02:04:06-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//inox-ks.com/nxemje/panel-diellor/</loc>
     <lastmod>2017-09-01T22:05:13-04:00</lastmod>
   </url>
   
@@ -33,7 +53,25 @@
   </url>
   
   <url>
+    <loc>//inox-ks.com/banjo/</loc>
+    <lastmod>2017-09-02T02:04:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>//inox-ks.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//inox-ks.com/kuzhina/</loc>
+    <lastmod>2018-09-02T02:04:06-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//inox-ks.com/nxemje/</loc>
+    <lastmod>2018-09-02T02:04:06-04:00</lastmod>
     <priority>0</priority>
   </url>
   

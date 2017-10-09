@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partneret on INOX</title>
+    <link>//inox-ks.com/partneret/</link>
+    <description>Recent content in Partneret on INOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 22:05:13 -0400</lastBuildDate>
+    
+	<atom:link href="//inox-ks.com/partneret/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
