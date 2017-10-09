@@ -7,7 +7,7 @@ menu:
     main: {}
 description: ""
 ---
-<b>Inox</b> u themelua nga Mustafa Dibrani ne vitin 1990, në qytetin e Gjakovës. Ne ju sjellim në treg produkte për instalimin e ujësjellësit, kanalizimit, nxemjës qendrore, gjithashtu edhe produkte sanitare.  
+<b>Inox</b> u themelua në vitin 1990, në qytetin e Gjakovës. Ne ju sjellim në treg produkte për instalimin e ujësjellësit, kanalizimit, nxemjës qëndrore, gjithashtu edhe produkte sanitare.  
 
 <b>Inox</b> gjendet në këto 4 pika:
 
