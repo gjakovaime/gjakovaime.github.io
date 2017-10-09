@@ -1,15 +1,16 @@
 ---
-title: "Dollapa"
+title: "Sanitari"
 date: 2017-09-02T02:04:06-04:00
 featured_image: '/images/sanitari/dollapa-te-bardh.jpg'
 type: page
 ---
-<p>
-Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. 
+<hr/>
+<div class="tc-l ph3 ph4-ns">
+<p>Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. </p>
+<p>Shikoni nga afër kualitetin dhe elengacen e produkteve tona.</p>
+</div>
+<hr/>
 
-Shikoni nga afër kualitetin dhe elengacen e produkteve tona.
-
-</p>
 {{< posters 
 photo2="/images/sanitari/pllaka.jpg"
 photo3="/images/sanitari/pllaka-kafe.jpg"

@@ -5,12 +5,12 @@ featured_image: '/images/nxemje/1.jpg'
 type: page
 
 ---
-
-<p>
-Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. 
-
-Shikoni nga afër kualitetin dhe elengacen e produkteve tona.</p>
-
+<hr/>
+<div class="tc-l ph3 ph4-ns">
+<p>Për një ambient të ngrohtë i shtëpisë, INOX ofron kaldaja me pelet, shporet me furrë, kaldaja elektrike dhe qynga.</p>
+<p> Disa nga firmat e njohura janë: Thermoflux, Bauger, Abc, Enrad.</p>
+</div>
+<hr/>
 <!--
 photo1="/images/nxemje/1.jpg"-->
 {{< posters 

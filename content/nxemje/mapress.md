@@ -4,12 +4,13 @@ date: 2018-09-02T02:04:06-04:00
 featured_image: '/images/mapress/16.jpg'
 type: page
 ---
-<p>
-Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. 
 
-Shikoni nga afër kualitetin dhe elengacen e produkteve tona.
+<hr/>
+<div class="tc-l ph3 ph4-ns">
+<p>Mapress, janë produkte për instalimin e ngrohjës qëndore të cilat janë cilesore dhe elegante për ambientin brenda shtëpise apo zyres suaj.</p>
 
-</p>
+</div>
+<hr/>
 
 {{< posters 
 photo4="/images/mapress/11.jpg"

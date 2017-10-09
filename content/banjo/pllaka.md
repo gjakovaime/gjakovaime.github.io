@@ -4,12 +4,12 @@ date: 2017-09-02T02:04:06-04:00
 featured_image: '/images/pllaka/10.jpg'
 type: page
 ---
-<p>
-Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. 
-
-Shikoni nga afër kualitetin dhe elengacen e produkteve tona.
-
-</p>
+<hr/>
+<div class="tc-l ph3 ph4-ns">
+<p>Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. </p>
+<p>Shikoni nga afër kualitetin dhe elengacen e produkteve tona.</p>
+</div>
+<hr/>
 
 <!--photo1="/images/pllaka/10.jpg"-->
 {{< posters 

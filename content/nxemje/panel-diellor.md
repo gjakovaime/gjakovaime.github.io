@@ -4,13 +4,12 @@ date: 2017-09-01T22:05:13-04:00
 featured_image: '/images/panel-diellor/5.jpg'
 type: page
 ---
-
-<p>
-Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. 
-
-Shikoni nga afër kualitetin dhe elengacen e produkteve tona.
-
-</p>
+<hr/>
+<div class="tc-l ph3 ph4-ns">
+<p>Panelet diellor mundësojnë shfrytëzimin e diellit për prodhimin e energjisë së duhur për ngrohjen e ujit. Kjo mundëson furnizimin e gjithë shtëpis me ujë të ngrohtë.</p>
+<p>Tiparet më të mira të paneleve diellor jan shpenzimet e ulëta vjetore, si dhe ruajtjen e ambientit.</p>
+</div>
+<hr/>
 <!--
 photo5="/images/panel-diellor/5.jpg"-->
 {{< posters 
