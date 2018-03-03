@@ -15,8 +15,8 @@ type: page
 {{< posters 
 photo4="/images/mapress/11.jpg"
 photo5="/images/mapress/12.jpg"
-photo2="/images/mapress/12.jpg"
-photo3="/images/mapress/14.jpg"
+photo2="/images/mapress/IK4B8334.jpg"
+photo3="/images/mapress/IK4B8333.jpg"
 photo6="/images/mapress/15.jpg"
 photo7="/images/mapress/17.jpg"
 photo8="/images/mapress/18.jpg"
