@@ -6,22 +6,25 @@ type: page
 ---
 <hr/>
 <div class="tc-l ph3 ph4-ns">
-<p>Ne ju sjellim showroom-in mbi 1000m<sup>2</sup> në Gjakovë që gjate zgjedhjës të produkteve të jeni komod dhe zgjidhja të jetë më e lehtë. </p>
-<p>Shikoni nga afër kualitetin dhe elengacen e produkteve tona.</p>
+<p>Llojshmëria pllakave përfshin pllaka muri dhe të dyshemes të cilat mund të montohen në banjo, kuzhinë, koridore zyre, resturante etj.</p>
 </div>
 <hr/>
 
-<!--photo1="/images/pllaka/10.jpg"-->
 {{< posters 
-photo4="/images/pllaka/2.jpg"
-photo5="/images/pllaka/3.png"
-photo2="/images/pllaka/4.jpg"
-photo3="/images/pllaka/5.jpg"
-photo6="/images/pllaka/6.jpg"
-photo7="/images/pllaka/7.jpg"
-photo8="/images/pllaka/8.jpg"
-photo9="/images/pllaka/9.jpg"
-photo10="/images/pllaka/1.png"
-photo11="/images/pllaka/11.jpg"
-photo12="/images/pllaka/12.jpg"
-photo13="/images/pllaka/13.jpg" >}}
+photo1="/images/pllaka/IK4B8507.JPG"
+photo2="/images/pllaka/IK4B8411.JPG"
+photo3="/images/pllaka/IK4B8457.JPG"
+photo4="/images/pllaka/IK4B8458.JPG"
+photo5="/images/pllaka/IK4B8460.JPG"
+photo9="/images/pllaka/IK4B8530.JPG"
+photo7="/images/pllaka/IK4B8532.JPG"
+photo8="/images/pllaka/IK4B8536.JPG"
+photo6="/images/pllaka/IK4B8491.JPG"
+photo10="/images/pllaka/IK4B8492.JPG"
+photo11="/images/pllaka/IK4B8361.JPG"
+photo12="/images/pllaka/IK4B8493.JPG"
+photo13="/images/pllaka/IK4B8495.JPG"
+photo14="/images/pllaka/IK4B8502.JPG"
+photo15="/images/pllaka/IK4B8503.JPG"
+photo16="/images/pllaka/IK4B8504.JPG"
+>}}

@@ -1,7 +1,7 @@
 ---
 title: "Partneret"
 date: 2017-09-01T22:05:13-04:00
-featured_image: '/images/pllaka/12.jpg'
+featured_image: '/images/tjera/IK4B8467.JPG'
 menu: 
     main: {}
 ---

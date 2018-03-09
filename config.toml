@@ -26,6 +26,11 @@ publishDir = "docs"
     url = "/banjo/sanitari"   
     parent="Banjo"
 [[menu.main]]
+    name = "Ujësjellës"    
+    weight = -100
+    url = "/banjo/ujësjellës"   
+    parent="Banjo"
+[[menu.main]]
      name = "Kotlla"
     weight = -100
     url = "/nxemje/kotlla"   

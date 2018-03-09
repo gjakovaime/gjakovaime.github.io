@@ -13,10 +13,10 @@ type: page
 <!--
 photo5="/images/panel-diellor/5.jpg"-->
 {{< posters 
-photo1="/images/panel-diellor/1.jpg"
-photo2="/images/panel-diellor/2.jpg"
-photo3="/images/panel-diellor/3.jpg"
-photo4="/images/panel-diellor/4.jpg"
+photo1="/images/panel-diellor/IK4B8315.JPG"
+photo2="/images/panel-diellor/IK4B8323.JPG"
+photo3="/images/panel-diellor/5.jpg"
+photo4="/images/panel-diellor/2.jpg"
 photo6="/images/panel-diellor/6.png"
 photo7="/images/panel-diellor/7.png"
 photo8="/images/panel-diellor/8.jpg"
